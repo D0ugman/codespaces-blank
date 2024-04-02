@@ -14,13 +14,12 @@ if(answer1 === "Y"  &&  answer2 === "Y"){
 
 }else if (answer1==="Y"&& answer2 ==="N"){
     console.log("color pink")
-    A.innerHTML = '<img src="">  <p>OmG ITS YOu A bag of gummYS</p>'
+    A.innerHTML = '<img src="Screenshot 2024-02-29 082919.png">  <p>OmG ITS YOu A bag of gummYS</p>'
 }else if (answer1 ==="N"&& answer2 === "Y"){
     console.log("cpasdad")
-    A.innerHTML = '<img src="">  <p>OmG ITS YOu A bag of gummYS</p>'
+    A.innerHTML = '<img src="Gummy-Bear-PNG-HD-Image.png">  <p>worng your weird </p>'
 }else if (answer1 ==="N"&& answer2 === "N")
-A.innerHTML = '<img src="
-">  <p>OmG ITS YOu A bag of gummYS</p>'
+A.innerHTML = '<img src="mom.jpg">  <p>worng your weird </p>'
 console.log("adwada")
 }
 
